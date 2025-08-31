@@ -6,7 +6,7 @@
     </p>
     <p>
         <!-- Live demo badge -->
-        <a href="https://zarex-ai.onrender.com/" target="_blank">
+        <a href="https://byte-2.onrender.com" target="_blank">
             <img src="/image.png" alt="Live Demo">
         </a>
     </p>
